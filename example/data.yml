@@ -1,0 +1,39 @@
+secret:
+  token: "abc123secret-token"
+
+base:
+  company_code: 1001
+  company_name: "나무 소프트"
+  confirm_code: 0
+  crackdown_level: 2
+  start_time: "2025-06-10T08:00:00Z"
+  end_time: "2025-06-10T18:00:00Z"
+  place_name: "부산역앞"
+  plate_text: "부산95아1687"
+  zone: 5
+
+image:
+  - capture_time: "2025-05-17T07:24:20Z"
+    crackdown_level: 1
+    image_level: 1
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517072420_28_19_3554448_16_1.jpg"
+  - capture_time: "2025-05-17T07:24:34Z"
+    crackdown_level: 1
+    image_level: 2
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517072434_28_19_3554448_16_2.jpg"
+  - capture_time: "2025-05-17T07:24:41Z"
+    crackdown_level: 1
+    image_level: 3
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517072441_28_19_3554448_16_3.jpg"
+  - capture_time: "2025-05-17T07:31:53Z"
+    crackdown_level: 2
+    image_level: 1
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517073153_28_19_3554448_16_4.jpg"
+  - capture_time: "2025-05-17T07:32:02Z"
+    crackdown_level: 2
+    image_level: 2
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517073202_28_19_3554448_16_5.jpg"
+  - capture_time: "2025-05-17T07:32:09Z"
+    crackdown_level: 2
+    image_level: 3
+    image_path: "./image/10.6.164.11_0_80_0_250517072420_250517073209_28_19_3554448_16_6.jpg"
